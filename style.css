@@ -1,0 +1,35 @@
+.box{
+	width: 100%;
+	height: 100px;
+	background-color: #FFCE54;
+	margin: 0 auto;
+	text-align: justify;
+	font-family: : Helvetica, sans-serif;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#header{
+	text-align: center;
+	background-color: #FFCE54;
+}
+
+#a{
+	background-color: #FCBB42;
+}
+
+#b{
+	background-color: #A0D468;
+}
+
+#c{
+	background-color: #8CC152;
+}
+
+#d{
+	background-color: #37BC9B;
+}
+
+body {
+	background-color: #A5DEE5;
+}
